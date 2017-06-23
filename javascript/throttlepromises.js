@@ -2,6 +2,9 @@
 /*jshint node:true*/
 /**
  * This should only be used for "shorter" task lists as the call stack can grow big.
+ *
+ * npm install q
+ *
  * @author pmeijer / https://github.com/pmeijer
  */
 
